@@ -31,7 +31,7 @@ communitybufoutput = os.path.join(root, "buff4pt.shp")
 vegbufoutput = os.path.join(root, "vegbuff4pt.shp")
 SelectVegsPts = os.path.join(root, "SelectVegsPts.shp")
 SelectCommuPts = os.path.join(root, "SelectCommuPts.shp")
-badu_AK = ['LVeetS51WxCkcvk8W1ZtH2M6M3sAcd7B','vyWV1Nir0wfARSkzkPOONYfrmQg8Lhlc','vyWV1Nir0wfARSkzkPOONYfrmQg8Lhlc','ubxeG6bwLXvViIxvtk3q1lRlBV5hvGVi','WIoulempg3Tj8UYzbTAIDFbqXyZbZgo3','DKQMQtBSORoTT57U5Dt6VPP176hDGmFH','qtvRqX6N2as61vgjuMtqXnGBshq9SqX0','ETpsECGpVj23QTTWY2fDEHAcnk2koeDh','hP44FFQHCbhbFPWN1KQjIyNfsppsbPSA','3qajGwXQIVSIzfDg6LBD7imGPQnZYNiY']
+badu_AK = [''] # add your baidu api key
 comunity2poiDic={}
 
 #print(' 当前时间：'+ time.localtime(time.time()))
